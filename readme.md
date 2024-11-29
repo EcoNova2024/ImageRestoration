@@ -16,11 +16,4 @@ This is a simple Flask-based API designed to process and restore damaged images.
 - OpenCV
 - NumPy
 
-## Installation
 
-1. **Clone the repository** or download the files.
-
-   ```bash
-   git clone https://github.com/your-repository/image-restoration-api.git
-   cd image-restoration-api
-   ```
